@@ -1,0 +1,3 @@
+- [x] Add image to modules/london.php for Big Ben
+- Add image to modules/paris.php for Eiffel Tower
+- Add image to modules/tokyo.php for Tokyo Tower
